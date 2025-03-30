@@ -1,1 +1,3 @@
-# asynchronous-programming-coroutines-flow
+# Android курс. Asynchronous programming
+### Группа: 1371
+### Студентка: Писарева Ирина
